@@ -3,7 +3,7 @@ Archipelago Manual APWorld of the Over the Hedge video game, released for GCN, P
 ## Items
 - Characters (RJ, Verne, Hammy, and Stella) (two random characters of the four are chosen to start with).
 - Heist Plans (serve as unlocks for sets of levels, grouped as heists).
-- Minigame Unlocks
+- Minigame Unlocks (toggle)
 - Ability Upgrades (instant power golf, upgraded health, upgraded damage, activated via in-game cheat codes)
 ## Locations
 - Level completion
