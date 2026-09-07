@@ -21,6 +21,8 @@ Archipelago Manual APWorld of the Over the Hedge video game, released for GCN, P
   - Fishing pole grapple
   - Power golfing
   - Sneaking
+  - Lifting
+  - Golf Cart
 - Require Hammy for trap disarmament
 - Rufus pickups (laptop, projector, etc.)
 - Secondary Objectives
