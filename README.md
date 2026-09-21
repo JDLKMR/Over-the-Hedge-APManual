@@ -1,5 +1,5 @@
 # Over the Hedge Manual APWorld
-Archipelago Manual APWorld of the Over the Hedge video game, released for GCN, PS2, and PC. A custom save file is used, which is provided (currently only GCN).
+Archipelago Manual APWorld of the Over the Hedge video game, released for GCN, PS2, Xbox, and PC. A custom save file is used, which is provided (currently only GCN).
 ## Items
 - Characters (RJ, Verne, Hammy, and Stella) (two random characters of the four are chosen to start with).
 - Heist Plans (serve as unlocks for sets of levels, grouped as heists).
