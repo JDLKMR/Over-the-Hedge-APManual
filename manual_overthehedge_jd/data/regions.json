@@ -1,0 +1,38 @@
+{
+  "Night Heist": {
+    "connects_to": [],
+    "requires": "|Night Heist Plans|"
+  },
+  "Martin Heist": {
+    "connects_to": [],
+    "requires": "|Martin Heist Plans|"
+  },
+  "Shooting Gallery Heist": {
+    "connects_to": [],
+    "requires": "|Shooting Gallery Heist Plans|"
+  },
+  "Smith Heist": {
+    "connects_to": [],
+    "requires": "|Smith Heist Plans|"
+  },
+  "Vincent Heist": {
+    "connects_to": [],
+    "requires": "|Cave Heist Plans|"
+  },
+  "Conner Heist": {
+    "connects_to": [],
+    "requires": "|Conner Heist Plans|"
+  },
+  "Carnival Heist": {
+    "connects_to": [],
+    "requires": "|Carnival Heist Plans|"
+  },
+  "Gladys Heist": {
+    "connects_to": [],
+    "requires": "|Gladys Heist Plans|"
+  },
+  "Vermtech Rescue": {
+    "connects_to": [],
+    "requires": "|Vermtech Rescue Plans|"
+  }
+}

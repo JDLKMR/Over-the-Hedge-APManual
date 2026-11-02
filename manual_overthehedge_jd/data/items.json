@@ -1,0 +1,233 @@
+[
+  {
+    "count": 1,
+    "name": "RJ",
+    "category": [
+      "Characters"
+    ],
+    "progression": true,
+	"sort-key": "1"
+  },
+  {
+    "count": 1,
+    "name": "Verne",
+    "category": [
+      "Characters"
+    ],
+    "progression": true,
+	"sort-key": "2"
+  },
+  {
+    "count": 1,
+    "name": "Hammy",
+    "category": [
+      "Characters"
+    ],
+    "progression": true,
+	"sort-key": "3"
+  },
+  {
+    "count": 1,
+    "name": "Stella",
+    "category": [
+      "Characters"
+    ],
+    "progression": true,
+	"sort-key": "4"
+  },
+  {
+    "count": 1,
+    "name": "Night Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "1"
+  },
+  {
+    "count": 1,
+    "name": "Martin Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "2"
+  },
+  {
+    "count": 1,
+    "name": "Shooting Gallery Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "3"
+  },
+  {
+    "count": 1,
+    "name": "Smith Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "4"
+  },
+  {
+    "count": 1,
+    "name": "Cave Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "5"
+  },
+  {
+    "count": 1,
+    "name": "Conner Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "6"
+  },
+  {
+    "count": 1,
+    "name": "Carnival Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "7"
+  },
+  {
+    "count": 1,
+    "name": "Gladys Heist Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "8"
+  },
+  {
+    "count": 1,
+    "name": "Vermtech Rescue Plans",
+    "category": [
+      "Heist Access"
+    ],
+    "progression": true,
+	"sort-key": "9"
+  },
+  {
+    "count": 1,
+    "name": "Instant Power Golf",
+    "category": [
+      "Ability Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Increased Damage",
+    "category": [
+      "Ability Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Increased Healing",
+    "category": [
+      "Ability Upgrades"
+    ],
+    "useful": true
+  },
+  {
+	"count": 1,
+    "name": "R.C. Rally (Track 1)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "1.1"
+  },
+  {
+	"count": 1,
+    "name": "R.C. Rally (Track 2)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "1.2"
+  },
+  {
+	"count": 1,
+    "name": "R.C. Rally (Track 3)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "1.3"
+  },
+  {
+	"count": 1,
+    "name": "R.C. Rally (Track 4)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "1.4"
+  },
+  {
+	"count": 1,
+    "name": "Range Driver (Course 1)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "2.1"
+  },
+  {
+	"count": 1,
+    "name": "Range Driver (Course 2)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "2.2"
+  },
+  {
+	"count": 1,
+    "name": "BumperCarts (Arena 1)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "3.1"
+  },
+  {
+	"count": 1,
+    "name": "BumperCarts (Arena 2)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "3.2"
+  },
+  {
+	"count": 1,
+    "name": "BumperCarts (Arena 3)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "3.3"
+  },
+  {
+	"count": 1,
+    "name": "BumperCarts (Arena 4)",
+    "category": [
+      "Minigames"
+    ],
+    "progression": true,
+	"sort-key": "3.4"
+  }
+]

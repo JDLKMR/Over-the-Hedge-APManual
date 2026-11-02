@@ -1,0 +1,62 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "shuffle_minigames": {
+			"display_name": "Shuffle Minigames",
+			"description": "Adds each minigame level as an unlockable item and location.",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+		},
+		"shuffle_hats": {
+            "display_name": "Shuffle Hats",
+            "description": "Include the game's 32 hats as locations.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Shuffle Settings"
+		},
+		"shuffle_cookies": {
+            "display_name": "Shuffle Cookies",
+            "description": "Include the game's 200 cookie boxes as locations (warning - adds a lot of filler to the pool).",
+            "type": "Toggle",
+            "default": false,
+            "group": "Shuffle Settings"
+        },
+        "shuffle_chips": {
+            "display_name": "Shuffle Chips",
+            "description": "Include the game's 200 chip cans as locations (warning - adds a lot of filler to the pool).",
+            "type": "Toggle",
+            "default": false,
+            "group": "Shuffle Settings"
+        },
+        "shuffle_dvds": {
+            "display_name": "Shuffle DVDs",
+            "description": "Include the game's 97 DVDs as locations (warning - adds a lot of filler to the pool).",
+            "type": "Toggle",
+            "default": false,
+            "group": "Shuffle Settings"
+        }
+    }
+
+}

@@ -1,0 +1,5637 @@
+[
+  {
+    "name": "Gladys' Back Yard - Completed",
+    "category": [
+      "01 - Gladys' Back Yard"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.99.0.000"
+  },
+  {
+    "name": "Inside Gladys' House - Completed",
+    "category": [
+      "02 - Inside Gladys' House"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.99.0.000"
+  },
+  {
+    "name": "Escape! - Completed",
+    "category": [
+      "03 - Escape!"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.99.0.000"
+  },
+  {
+    "name": "Caught in the hedge! - Completed",
+    "category": [
+      "04 - Caught in the hedge!"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.99.0.000"
+  },
+  {
+    "name": "Night Streets - Completed",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets"
+    ],
+    "requires": "",
+    "sort-key": "05.99.0.000"
+  },
+  {
+    "name": "Projector Heist - Completed",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist"
+    ],
+    "requires": "",
+    "sort-key": "06.99.0.000"
+  },
+  {
+    "name": "Martin Heist, Pt. 1 - Completed",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1"
+    ],
+    "requires": "",
+    "sort-key": "07.99.0.000"
+  },
+  {
+    "name": "Martin Heist, Pt. 2 - Completed",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2"
+    ],
+    "requires": "",
+    "sort-key": "08.99.0.000"
+  },
+  {
+    "name": "Martin House - Completed",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House"
+    ],
+    "requires": "",
+    "sort-key": "09.99.0.000"
+  },
+  {
+    "name": "Martin Heist Escape - Completed",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape"
+    ],
+    "requires": "",
+    "sort-key": "10.99.0.000"
+  },
+  {
+    "name": "Steam Train - Completed",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train"
+    ],
+    "requires": "",
+    "sort-key": "11.99.0.000"
+  },
+  {
+    "name": "Shooting Gallery - Completed",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery"
+    ],
+    "requires": "",
+    "sort-key": "12.99.0.000"
+  },
+  {
+    "name": "Maintenance Room - Completed",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room"
+    ],
+    "requires": "",
+    "sort-key": "13.99.0.000"
+  },
+  {
+    "name": "Smith Birthday Party - Completed",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party"
+    ],
+    "requires": "",
+    "sort-key": "14.99.0.000"
+  },
+  {
+    "name": "Smith Heist, Pt. 2 - Completed",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2"
+    ],
+    "requires": "",
+    "sort-key": "15.99.0.000"
+  },
+  {
+    "name": "Smith House - Completed",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House"
+    ],
+    "requires": "",
+    "sort-key": "16.99.0.000"
+  },
+  {
+    "name": "Smith Heist Escape - Completed",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape"
+    ],
+    "requires": "",
+    "sort-key": "17.99.0.000"
+  },
+  {
+    "name": "Cave Interiors - Completed",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors"
+    ],
+    "requires": "",
+    "sort-key": "18.99.0.000"
+  },
+  {
+    "name": "Below Vincent's Den - Completed",
+    "region": "Vincent Heist",
+    "category": [
+      "19 - Below Vincent's Den"
+    ],
+    "requires": "",
+    "sort-key": "19.99.0.000"
+  },
+  {
+    "name": "Mountain Paths - Completed",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths"
+    ],
+    "requires": "",
+    "sort-key": "20.99.0.000"
+  },
+  {
+    "name": "Vincent's Den - Completed",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den"
+    ],
+    "requires": "",
+    "sort-key": "21.99.0.000"
+  },
+  {
+    "name": "Conner Heist, Pt. 1 - Completed",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1"
+    ],
+    "requires": "",
+    "sort-key": "22.99.0.000"
+  },
+  {
+    "name": "Conner Heist, Pt. 2 - Completed",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2"
+    ],
+    "requires": "",
+    "sort-key": "23.99.0.000"
+  },
+  {
+    "name": "Conner Heist, Pt. 3 - Completed",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3"
+    ],
+    "requires": "",
+    "sort-key": "24.99.0.000"
+  },
+  {
+    "name": "Conner House - Completed",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House"
+    ],
+    "requires": "",
+    "sort-key": "25.99.0.000"
+  },
+  {
+    "name": "Conner Heist Escape - Completed",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape"
+    ],
+    "requires": "",
+    "sort-key": "26.99.0.000"
+  },
+  {
+    "name": "Mini-Golf Course - Completed",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course"
+    ],
+    "requires": "",
+    "sort-key": "27.99.0.000"
+  },
+  {
+    "name": "Roller Coaster Tracks - Completed",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks"
+    ],
+    "requires": "",
+    "sort-key": "28.99.0.000"
+  },
+  {
+    "name": "Roller Coaster Escape - Completed",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape"
+    ],
+    "requires": "",
+    "sort-key": "29.99.0.000"
+  },
+  {
+    "name": "Gladys Heist, Pt. 1 - Completed",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1"
+    ],
+    "requires": "",
+    "sort-key": "30.99.0.000"
+  },
+  {
+    "name": "Gladys Heist, Pt. 2 - Completed",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2"
+    ],
+    "requires": "",
+    "sort-key": "31.99.0.000"
+  },
+  {
+    "name": "Gladys Heist Escape - Completed",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape"
+    ],
+    "requires": "",
+    "sort-key": "32.99.0.000"
+  },
+  {
+    "name": "Protect the Woods! - Completed",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!"
+    ],
+    "requires": "",
+    "sort-key": "33.99.0.000"
+  },
+  {
+    "name": "Vermtech Heist - Completed",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist"
+    ],
+    "requires": "",
+    "sort-key": "34.99.0.000"
+  },
+  {
+    "name": "Rescue Heather! - Completed",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!"
+    ],
+    "victory": true,
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.99.0.000"
+  },
+  {
+    "name": "GBY - Pirate Hat",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Hats"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.02.4.000"
+  },
+  {
+    "name": "IGH - Chef's Hat",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Hats"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.4.000"
+  },
+  {
+    "name": "Escape! - Baseball Cap",
+    "category": [
+      "03 - Escape!",
+      "Hats"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.4.000"
+  },
+  {
+    "name": "NS - Crown",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "05.90.4.000"
+  },
+  {
+    "name": "PH - Hard Hat",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "06.90.4.000"
+  },
+  {
+    "name": "MH1 - Viking Helmet",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "07.01.4.000"
+  },
+  {
+    "name": "MH2 - Sports Helmet",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "08.02.4.000"
+  },
+  {
+    "name": "MH - Bonnet",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "09.02.4.000"
+  },
+  {
+    "name": "ST - Conductor's Hat",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "11.12.4.000"
+  },
+  {
+    "name": "SG - Cowboy Hat",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "12.90.4.000"
+  },
+  {
+    "name": "MR - Uncle Sam Hat",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "13.01.4.000"
+  },
+  {
+    "name": "SBP - Princess Hat",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "14.90.4.000"
+  },
+  {
+    "name": "SH2 - Sun Hat",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "15.01.4.000"
+  },
+  {
+    "name": "SH - Baseball Cap 2",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "16.01.4.000"
+  },
+  {
+    "name": "SHE - Police Cap",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "17.01.4.000"
+  },
+  {
+    "name": "CI - Long Bill Cap",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "18.02.4.000"
+  },
+  {
+    "name": "BVD - Wizard Hat",
+    "region": "Vincent Heist",
+    "category": [
+      "19 - Below Vincent's Den",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "19.00.4.000"
+  },
+  {
+    "name": "MP - Conical Hat",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "20.02.4.000"
+  },
+  {
+    "name": "VD - Strainer",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "21.00.4.000"
+  },
+  {
+    "name": "CH1 - Lady's Hat",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "22.00.4.000"
+  },
+  {
+    "name": "CH2 - Fireman Hat",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "23.02.4.000"
+  },
+  {
+    "name": "CH3 - Santa Hat",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "24.00.4.000"
+  },
+  {
+    "name": "CH - Samurai Helmet",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "25.01.4.000"
+  },
+  {
+    "name": "CHE - Jester Hat",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "26.01.4.000"
+  },
+  {
+    "name": "MGC - Baseball Cap 3",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "27.01.4.000"
+  },
+  {
+    "name": "RCT - Witch Hat",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "28.05.4.000"
+  },
+  {
+    "name": "RCE - Magician Hat",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "29.03.4.000"
+  },
+  {
+    "name": "GH1 - Roman Helmet",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "30.02.4.000"
+  },
+  {
+    "name": "GH2 - Powdered Wig",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "31.02.4.000"
+  },
+  {
+    "name": "PtW - Pot",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "33.00.4.000"
+  },
+  {
+    "name": "VH - Bobby Helmet",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "34.01.4.000"
+  },
+  {
+    "name": "RH - Bowl Helmet",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Hats"
+    ],
+    "requires": "",
+    "sort-key": "35.01.4.000"
+  },
+  {
+    "name": "R.C. Rally (Win Track 1)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|R.C. Rally (Track 1)|",
+    "sort-key": "1.1"
+  },
+  {
+    "name": "R.C. Rally (Win Track 2)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|R.C. Rally (Track 2)|",
+    "sort-key": "1.2"
+  },
+  {
+    "name": "R.C. Rally (Win Track 3)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|R.C. Rally (Track 3)|",
+    "sort-key": "1.3"
+  },
+  {
+    "name": "R.C. Rally (Win Track 4)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|R.C. Rally (Track 4)|",
+    "sort-key": "1.4"
+  },
+  {
+    "name": "Range Driver (Win Course 1)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|Range Driver (Course 1)|",
+    "sort-key": "2.1"
+  },
+  {
+    "name": "Range Driver (Win Course 2)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|Range Driver (Course 2)|",
+    "sort-key": "2.2"
+  },
+  {
+    "name": "BumperCarts (Win Arena 1)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|BumperCarts (Arena 1)|",
+    "sort-key": "3.1"
+  },
+  {
+    "name": "BumperCarts (Win Arena 2)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|BumperCarts (Arena 2)|",
+    "sort-key": "3.2"
+  },
+  {
+    "name": "BumperCarts (Win Arena 3)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|BumperCarts (Arena 3)|",
+    "sort-key": "3.3"
+  },
+  {
+    "name": "BumperCarts (Win Arena 4)",
+    "category": [
+      "Minigames"
+    ],
+    "requires": "|BumperCarts (Arena 4)|",
+    "sort-key": "3.4"
+  },
+  {
+    "name": "GBY - Watering Can Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.1.001"
+  },
+  {
+    "name": "GBY - Potted Plant Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.1.002"
+  },
+  {
+    "name": "GBY - Path to Gazebo Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.02.1.003"
+  },
+  {
+    "name": "GBY - 1st Porch Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.02.1.004"
+  },
+  {
+    "name": "GBY - 2nd Porch Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.03.1.005"
+  },
+  {
+    "name": "GBY - Planter Box Cookies",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.03.1.006"
+  },
+  {
+    "name": "GBY - Plant Box Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.2.001"
+  },
+  {
+    "name": "GBY - 1st Wood Frame Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.2.002"
+  },
+  {
+    "name": "GBY - White Porch Chair Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.2.003"
+  },
+  {
+    "name": "GBY - Spa Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.2.004"
+  },
+  {
+    "name": "GBY - 2nd Wood Frame Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.02.2.005"
+  },
+  {
+    "name": "GBY - Chair Chips",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.03.2.006"
+  },
+  {
+    "name": "GBY - Dog Kennel DVD",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.01.3.001"
+  },
+  {
+    "name": "GBY - Gazebo DVD",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.02.3.002"
+  },
+  {
+    "name": "GBY - Planter Box DVD",
+    "category": [
+      "01 - Gladys' Back Yard",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "01.03.3.003"
+  },
+  {
+    "name": "IGH - Book Cookies",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.1.007"
+  },
+  {
+    "name": "IGH - Trash Can Cookies",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.1.008"
+  },
+  {
+    "name": "IGH - Dishes Cabinet Cookies",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.1.009"
+  },
+  {
+    "name": "IGH - Breadloaf Cookies",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.1.010"
+  },
+  {
+    "name": "IGH - Board Game Stack Chips",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.2.007"
+  },
+  {
+    "name": "IGH - Salt Shaker Chips",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.2.008"
+  },
+  {
+    "name": "IGH - Telephone Chips",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.2.009"
+  },
+  {
+    "name": "IGH - Blender Chips",
+    "category": [
+      "02 - Inside Gladys' House",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.2.010"
+  },
+  {
+    "name": "IGH - TV DVD",
+    "category": [
+      "02 - Inside Gladys' House",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.3.004"
+  },
+  {
+    "name": "IGH - Dining Table DVD",
+    "category": [
+      "02 - Inside Gladys' House",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.3.005"
+  },
+  {
+    "name": "IGH - Kitchen Counter DVD",
+    "category": [
+      "02 - Inside Gladys' House",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne|",
+    "sort-key": "02.00.3.006"
+  },
+  {
+    "name": "Escape! - 1st Bench Cookies",
+    "category": [
+      "03 - Escape!",
+      "Cookies"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.1.011"
+  },
+  {
+    "name": "Escape! - 2nd Bench Cookies",
+    "category": [
+      "03 - Escape!",
+      "Cookies"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.1.012"
+  },
+  {
+    "name": "Escape! - Northeast Corner Chips",
+    "category": [
+      "03 - Escape!",
+      "Chips"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.2.011"
+  },
+  {
+    "name": "Escape! - Bench Chips",
+    "category": [
+      "03 - Escape!",
+      "Chips"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.2.012"
+  },
+  {
+    "name": "Escape! - 1st Bench DVD",
+    "category": [
+      "03 - Escape!",
+      "DVDs"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.3.007"
+  },
+  {
+    "name": "Escape! - Southwest Corner DVD",
+    "category": [
+      "03 - Escape!",
+      "DVDs"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.3.008"
+  },
+  {
+    "name": "Escape! - 2nd Bench DVD",
+    "category": [
+      "03 - Escape!",
+      "DVDs"
+    ],
+    "requires": "|Hammy| AND |Stella|",
+    "sort-key": "03.00.3.009"
+  },
+  {
+    "name": "CitH! - Starting Cookies",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Cookies"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.1.013"
+  },
+  {
+    "name": "CitH! - Vincent Cutscene Cookies",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Cookies"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.1.014"
+  },
+  {
+    "name": "CitH! - Chips-Adjacent Cookies",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Cookies"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.1.015"
+  },
+  {
+    "name": "CitH! - DVD-Adjacent Cookies",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Cookies"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.1.016"
+  },
+  {
+    "name": "CitH! - Vincent Cutscene Chips",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Chips"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.2.013"
+  },
+  {
+    "name": "CitH! - Chips-Adjacent Chips",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Chips"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.2.014"
+  },
+  {
+    "name": "CitH! - Cookies-Adjacent Chips",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Chips"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.2.015"
+  },
+  {
+    "name": "CitH! - DVD-Adjacent Chips",
+    "category": [
+      "04 - Caught in the hedge!",
+      "Chips"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.2.016"
+  },
+  {
+    "name": "CitH! - 1st Chips-Adjacent DVD",
+    "category": [
+      "04 - Caught in the hedge!",
+      "DVDs"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.3.010"
+  },
+  {
+    "name": "CitH! - 2nd Chips-Adjacent DVD",
+    "category": [
+      "04 - Caught in the hedge!",
+      "DVDs"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.3.011"
+  },
+  {
+    "name": "CitH! - Cookies-Adjacent DVD",
+    "category": [
+      "04 - Caught in the hedge!",
+      "DVDs"
+    ],
+    "requires": "|Verne| AND |Hammy|",
+    "sort-key": "04.00.3.012"
+  },
+  {
+    "name": "NS - 1st Green Bin Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.00.1.017"
+  },
+  {
+    "name": "NS - 2nd Green Bin Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.00.1.018"
+  },
+  {
+    "name": "NS - Table Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.019"
+  },
+  {
+    "name": "NS - White Chair Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.020"
+  },
+  {
+    "name": "NS - 1st Barrel Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.021"
+  },
+  {
+    "name": "NS - Cooler Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.022"
+  },
+  {
+    "name": "NS - Tricycle Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.023"
+  },
+  {
+    "name": "NS - 2nd Barrel Cookies",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "05.01.1.024"
+  },
+  {
+    "name": "NS - Green Bin Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.00.2.017"
+  },
+  {
+    "name": "NS - Street Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.00.2.018"
+  },
+  {
+    "name": "NS - Table Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.019"
+  },
+  {
+    "name": "NS - Bird Bath Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.020"
+  },
+  {
+    "name": "NS - 1st Barrel Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.021"
+  },
+  {
+    "name": "NS - Antenna Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.022"
+  },
+  {
+    "name": "NS - 2nd Barrel Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.023"
+  },
+  {
+    "name": "NS - Cooler Chips",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "05.01.2.024"
+  },
+  {
+    "name": "NS - Green Bin DVD",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "05.00.3.013"
+  },
+  {
+    "name": "NS - Potted Plant DVD",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "05.01.3.014"
+  },
+  {
+    "name": "NS - Roof DVD",
+    "region": "Night Heist",
+    "category": [
+      "05 - Night Streets",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "05.01.3.015"
+  },
+  {
+    "name": "PH - 1st Crate Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.025"
+  },
+  {
+    "name": "PH - Wood Frame Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.026"
+  },
+  {
+    "name": "PH - For Sale Sign Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.027"
+  },
+  {
+    "name": "PH - 2nd Crate Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.028"
+  },
+  {
+    "name": "PH - 3rd Crate Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.029"
+  },
+  {
+    "name": "PH - 3rd Alcove Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.030"
+  },
+  {
+    "name": "PH - Tricycle Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.00.1.031"
+  },
+  {
+    "name": "PH - Board Game Cookies",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "06.01.1.032"
+  },
+  {
+    "name": "PH - 1st Crate Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.025"
+  },
+  {
+    "name": "PH - 1st Metal Bin Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.026"
+  },
+  {
+    "name": "PH - 2nd Crate Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.027"
+  },
+  {
+    "name": "PH - 3rd Crate Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.028"
+  },
+  {
+    "name": "PH - 2nd Metal Bin Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.029"
+  },
+  {
+    "name": "PH - Wood Board Stack Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.030"
+  },
+  {
+    "name": "PH - Left Potted Plant Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.00.2.031"
+  },
+  {
+    "name": "PH - Vase Chips",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "06.01.2.032"
+  },
+  {
+    "name": "PH - Wood Beam Stack DVD",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "06.00.3.016"
+  },
+  {
+    "name": "PH - Potted Plant DVD",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "06.00.3.017"
+  },
+  {
+    "name": "PH - Lampstand DVD",
+    "region": "Night Heist",
+    "category": [
+      "06 - Projector Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "06.01.3.018"
+  },
+  {
+    "name": "MH1 - Gnome Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.01.1.033"
+  },
+  {
+    "name": "MH1 - Watering Can Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.01.1.034"
+  },
+  {
+    "name": "MH1 - 1st Planter Box Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.01.1.035"
+  },
+  {
+    "name": "MH1 - Cooler Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.02.1.036"
+  },
+  {
+    "name": "MH1 - 2nd Planter Box Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.02.1.037"
+  },
+  {
+    "name": "MH1 - 3rd Planter Box Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "07.02.1.038"
+  },
+  {
+    "name": "MH1 - Dog Butt Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.01.2.033"
+  },
+  {
+    "name": "MH1 - 1st Cooler Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.01.2.034"
+  },
+  {
+    "name": "MH1 - 1st Planter Box Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.01.2.035"
+  },
+  {
+    "name": "MH1 - 2nd Cooler Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.02.2.036"
+  },
+  {
+    "name": "MH1 - 2nd Planter Box Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.02.2.037"
+  },
+  {
+    "name": "MH1 - Potted Plant Chips",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "07.02.2.038"
+  },
+  {
+    "name": "MH1 - Starting Bird Bath DVD",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "07.01.3.019"
+  },
+  {
+    "name": "MH1 - Tricycle DVD",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "07.01.3.020"
+  },
+  {
+    "name": "MH1 - Ivy Trellis DVD",
+    "region": "Martin Heist",
+    "category": [
+      "07 - Martin Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "07.02.3.021"
+  },
+  {
+    "name": "MH2 - 2nd Planter Box Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.01.1.039"
+  },
+  {
+    "name": "MH2 - Cooler Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.01.1.040"
+  },
+  {
+    "name": "MH2 - Birdhouse Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.02.1.041"
+  },
+  {
+    "name": "MH2 - Windmill Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.02.1.042"
+  },
+  {
+    "name": "MH2 - 2nd Grey Panel Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.02.1.043"
+  },
+  {
+    "name": "MH2 - Antenna Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "08.02.1.044"
+  },
+  {
+    "name": "MH2 - 1st Planter Box Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.01.2.039"
+  },
+  {
+    "name": "MH2 - Wheelbarrow Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.01.2.040"
+  },
+  {
+    "name": "MH2 - Left Barrel Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.01.2.041"
+  },
+  {
+    "name": "MH2 - 1st Potted Plant Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.02.2.042"
+  },
+  {
+    "name": "MH2 - 2nd Potted Plant Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.02.2.043"
+  },
+  {
+    "name": "MH2 - 1st Grey Panel Chips",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "08.02.2.044"
+  },
+  {
+    "name": "MH2 - Starting Ivy Trellis DVD",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "08.01.3.022"
+  },
+  {
+    "name": "MH2 - Barrel DVD",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "08.01.3.023"
+  },
+  {
+    "name": "MH2 - Roof DVD",
+    "region": "Martin Heist",
+    "category": [
+      "08 - Martin Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "08.02.3.024"
+  },
+  {
+    "name": "MH - Lamp Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "09.01.1.045"
+  },
+  {
+    "name": "MH - Counter Corner Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "09.01.1.046"
+  },
+  {
+    "name": "MH - Toaster Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "09.01.1.047"
+  },
+  {
+    "name": "MH - Spray Bottle Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "09.02.1.048"
+  },
+  {
+    "name": "MH - Grandfather Clock Chips",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "09.01.2.045"
+  },
+  {
+    "name": "MH - Vase Chips",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "09.01.2.046"
+  },
+  {
+    "name": "MH - Blender Chips",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "09.01.2.047"
+  },
+  {
+    "name": "MH - Tin Bucket Chips",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "09.02.2.048"
+  },
+  {
+    "name": "MH - Bottom DVD",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "09.01.3.025"
+  },
+  {
+    "name": "MH - Water Jug DVD",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "09.01.3.026"
+  },
+  {
+    "name": "MH - Racking DVD",
+    "region": "Martin Heist",
+    "category": [
+      "09 - Martin House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "09.02.3.027"
+  },
+  {
+    "name": "MHE - Spray Bottle Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.00.1.049"
+  },
+  {
+    "name": "MHE - Street Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.00.1.050"
+  },
+  {
+    "name": "MHE - Bird Bath Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.01.1.051"
+  },
+  {
+    "name": "MHE - Scooter Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.01.1.052"
+  },
+  {
+    "name": "MHE - Road Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.02.1.053"
+  },
+  {
+    "name": "MHE - Left Green Bin Cookies",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "10.02.1.054"
+  },
+  {
+    "name": "MHE - Tricycle Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.00.2.049"
+  },
+  {
+    "name": "MHE - 1st Metal Bin Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.01.2.050"
+  },
+  {
+    "name": "MHE - Left Tricycle Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.02.2.051"
+  },
+  {
+    "name": "MHE - Watering Can Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.02.2.052"
+  },
+  {
+    "name": "MHE - 2nd Metal Bin Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.02.2.053"
+  },
+  {
+    "name": "MHE - Final Barrel Chips",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "10.02.2.054"
+  },
+  {
+    "name": "MHE - 1st Ambush DVD",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "10.00.3.028"
+  },
+  {
+    "name": "MHE - Left Footpath DVD",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "10.02.3.029"
+  },
+  {
+    "name": "MHE - 3rd Ambush DVD",
+    "region": "Martin Heist",
+    "category": [
+      "10 - Martin Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "10.02.3.030"
+  },
+  {
+    "name": "ST - 2nd Car End Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.02.1.055"
+  },
+  {
+    "name": "ST - 4th Car Outside Exit Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.04.1.056"
+  },
+  {
+    "name": "ST - 6th Car End Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.06.1.057"
+  },
+  {
+    "name": "ST - 7th Car Right Wall Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.07.1.058"
+  },
+  {
+    "name": "ST - 10th Car Start Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.10.1.059"
+  },
+  {
+    "name": "ST - 10th Car Pit Section Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.10.1.060"
+  },
+  {
+    "name": "ST - 11th Car End Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.11.1.061"
+  },
+  {
+    "name": "ST - 12th Car Final Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "11.12.1.062"
+  },
+  {
+    "name": "ST - 1st Car Table Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.01.2.055"
+  },
+  {
+    "name": "ST - 2nd Car Suitcases Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.02.2.056"
+  },
+  {
+    "name": "ST - 3rd Car Suitcases Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.03.2.057"
+  },
+  {
+    "name": "ST - 5th Car Floor Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.05.2.058"
+  },
+  {
+    "name": "ST - 6th Car Floor Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.06.2.059"
+  },
+  {
+    "name": "ST - 7th Car Middle Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.07.2.060"
+  },
+  {
+    "name": "ST - 8th Car Outside Exit Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.08.2.061"
+  },
+  {
+    "name": "ST - 9th Car End Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "11.09.2.062"
+  },
+  {
+    "name": "ST - 3rd Car Crate DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "11.03.3.031"
+  },
+  {
+    "name": "ST - 8th Car Seats DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "11 - Steam Train",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "11.08.3.032"
+  },
+  {
+    "name": "SG - 2nd Building Floor Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.00.1.063"
+  },
+  {
+    "name": "SG - Hotel Front Porch Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.00.1.064"
+  },
+  {
+    "name": "SG - Jail Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.00.1.065"
+  },
+  {
+    "name": "SG - Saloon Counter Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.01.1.066"
+  },
+  {
+    "name": "SG - Chandelier Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.01.1.067"
+  },
+  {
+    "name": "SG - 1st Crate Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.02.1.068"
+  },
+  {
+    "name": "SG - 2nd Crate Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.02.1.069"
+  },
+  {
+    "name": "SG - Stagecoach Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "12.02.1.070"
+  },
+  {
+    "name": "SG - Undertaker Porch Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.00.2.063"
+  },
+  {
+    "name": "SG - Sheriff Prop Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.00.2.064"
+  },
+  {
+    "name": "SG - Water Tower Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.00.2.065"
+  },
+  {
+    "name": "SG - Cactus Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.00.2.066"
+  },
+  {
+    "name": "SG - 1st Target Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.01.2.067"
+  },
+  {
+    "name": "SG - Fireplace Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.01.2.068"
+  },
+  {
+    "name": "SG - Panel Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.01.2.069"
+  },
+  {
+    "name": "SG - Barrel Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "12.02.2.070"
+  },
+  {
+    "name": "SG - Crate DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "12.00.3.033"
+  },
+  {
+    "name": "SG - Chandelier DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "12.01.3.034"
+  },
+  {
+    "name": "SG - Barrel DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "12 - Shooting Gallery",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "12.02.3.035"
+  },
+  {
+    "name": "MR - Starting Chase Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.01.1.071"
+  },
+  {
+    "name": "MR - 1st Bend Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.01.1.072"
+  },
+  {
+    "name": "MR - Crate Stack 1st Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.01.1.073"
+  },
+  {
+    "name": "MR - Crate Stack 2nd Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.01.1.074"
+  },
+  {
+    "name": "MR - 2nd Bend Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.01.1.075"
+  },
+  {
+    "name": "MR - Wood Beam Stacks Cookies",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "13.02.1.076"
+  },
+  {
+    "name": "MR - 1st Bend Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.01.2.071"
+  },
+  {
+    "name": "MR - 1st Air Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.01.2.072"
+  },
+  {
+    "name": "MR - 2nd Air Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.01.2.073"
+  },
+  {
+    "name": "MR - 2nd Bend Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.01.2.074"
+  },
+  {
+    "name": "MR - Wood Beam Stacks Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.02.2.075"
+  },
+  {
+    "name": "MR - Jump Chips",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "13.02.2.076"
+  },
+  {
+    "name": "MR - Crate Stacks DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "13.01.3.036"
+  },
+  {
+    "name": "MR - Bend DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "13.01.3.037"
+  },
+  {
+    "name": "MR - 1st Wood Beam Stack DVD",
+    "region": "Shooting Gallery Heist",
+    "category": [
+      "13 - Maintenance Room",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "13.02.3.038"
+  },
+  {
+    "name": "SBP - Starting Turtle Statue Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.00.1.077"
+  },
+  {
+    "name": "SBP - Pink Castle Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.00.1.078"
+  },
+  {
+    "name": "SBP - Bridge Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.01.1.079"
+  },
+  {
+    "name": "SBP - 1st Wire Trail Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.02.1.080"
+  },
+  {
+    "name": "SBP - 2nd Wire Trail Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.02.1.081"
+  },
+  {
+    "name": "SBP - 3rd Wire Trail Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "14.02.1.082"
+  },
+  {
+    "name": "SBP - Starting Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.00.2.077"
+  },
+  {
+    "name": "SBP - Pink Castle Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.00.2.078"
+  },
+  {
+    "name": "SBP - Cake Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.00.2.079"
+  },
+  {
+    "name": "SBP - Porcupine Kid Cage Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.01.2.080"
+  },
+  {
+    "name": "SBP - Right Exhaust Vents Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.01.2.081"
+  },
+  {
+    "name": "SBP - Wire Chips",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "14.02.2.082"
+  },
+  {
+    "name": "SBP - Turtle Piñata DVD",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "14.00.3.039"
+  },
+  {
+    "name": "SBP - Electric Patch DVD",
+    "region": "Smith Heist",
+    "category": [
+      "14 - Smith Birthday Party",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "14.02.3.040"
+  },
+  {
+    "name": "SH2 - Starting Trunk Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.01.1.083"
+  },
+  {
+    "name": "SH2 - Box Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.01.1.084"
+  },
+  {
+    "name": "SH2 - Corner Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.01.1.085"
+  },
+  {
+    "name": "SH2 - Wood Ivy Tower Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.02.1.086"
+  },
+  {
+    "name": "SH2 - Exhaust Vent Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.03.1.087"
+  },
+  {
+    "name": "SH2 - Ivy Trellis Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "15.03.1.088"
+  },
+  {
+    "name": "SH2 - Left of Switch Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.01.2.083"
+  },
+  {
+    "name": "SH2 - Right of Switch Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.01.2.084"
+  },
+  {
+    "name": "SH2 - Bird Bath Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.02.2.085"
+  },
+  {
+    "name": "SH2 - Bottom-Right Corner Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.02.2.086"
+  },
+  {
+    "name": "SH2 - Middle Planter Box Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.02.2.087"
+  },
+  {
+    "name": "SH2 - Exhaust Vents Chips",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "15.03.2.088"
+  },
+  {
+    "name": "SH2 - Watering Can DVD",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "15.02.3.041"
+  },
+  {
+    "name": "SH2 - Potted Plant DVD",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "15.03.3.042"
+  },
+  {
+    "name": "SH2 - Football DVD",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "15.03.3.043"
+  },
+  {
+    "name": "SH2 - Tricycle DVD",
+    "region": "Smith Heist",
+    "category": [
+      "15 - Smith Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "15.03.3.044"
+  },
+  {
+    "name": "SH - Iron Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "16.01.1.089"
+  },
+  {
+    "name": "SH - 1st Lamp Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "16.03.1.090"
+  },
+  {
+    "name": "SH - 2nd Lamp Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "16.03.1.091"
+  },
+  {
+    "name": "SH - Hot Water Box Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "16.04.1.092"
+  },
+  {
+    "name": "SH - 2nd Spray Bottle Chips",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "16.01.2.089"
+  },
+  {
+    "name": "SH - Vase Chips",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "16.02.2.090"
+  },
+  {
+    "name": "SH - Board Game Chips",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "16.03.2.091"
+  },
+  {
+    "name": "SH - Left Potted Plant Chips",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "16.03.2.092"
+  },
+  {
+    "name": "SH - Telephone DVD",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "16.02.3.045"
+  },
+  {
+    "name": "SH - Potted Plant DVD",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "16.03.3.046"
+  },
+  {
+    "name": "SH - Small Box DVD",
+    "region": "Smith Heist",
+    "category": [
+      "16 - Smith House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "16.04.3.047"
+  },
+  {
+    "name": "SHE - Tricycle Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.01.1.093"
+  },
+  {
+    "name": "SHE - Fenced Trash Can Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.01.1.094"
+  },
+  {
+    "name": "SHE - Road Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.02.1.095"
+  },
+  {
+    "name": "SHE - Green Bin Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.03.1.096"
+  },
+  {
+    "name": "SHE - 1st Trash Can Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.03.1.097"
+  },
+  {
+    "name": "SHE - 2nd Trash Can Cookies",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "17.03.1.098"
+  },
+  {
+    "name": "SHE - Starting Frisbee Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.00.2.093"
+  },
+  {
+    "name": "SHE - Garage Door Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.00.2.094"
+  },
+  {
+    "name": "SHE - Sidewalk Lawn Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.01.2.095"
+  },
+  {
+    "name": "SHE - Road Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.02.2.096"
+  },
+  {
+    "name": "SHE - Planter Box Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.03.2.097"
+  },
+  {
+    "name": "SHE - 3rd Trash Can Chips",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "17.03.2.098"
+  },
+  {
+    "name": "SHE - Lawn DVD",
+    "region": "Smith Heist",
+    "category": [
+      "17 - Smith Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "17.00.3.048"
+  },
+  {
+    "name": "CI - After Loot Drop Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.00.1.099"
+  },
+  {
+    "name": "CI - Hidden Right Wall Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.01.1.100"
+  },
+  {
+    "name": "CI - 1st Wall Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.01.1.101"
+  },
+  {
+    "name": "CI - 2nd Wall Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.01.1.102"
+  },
+  {
+    "name": "CI - Stalagmite Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.01.1.103"
+  },
+  {
+    "name": "CI - 3rd Cavern 1st Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.02.1.104"
+  },
+  {
+    "name": "CI - 3rd Cavern 2nd Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.02.1.105"
+  },
+  {
+    "name": "CI - 3rd Cavern 3rd Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "18.02.1.106"
+  },
+  {
+    "name": "CI - Before Loot Drop Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.00.2.099"
+  },
+  {
+    "name": "CI - Cavern 1st Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.00.2.100"
+  },
+  {
+    "name": "CI - Cavern 2nd Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.00.2.101"
+  },
+  {
+    "name": "CI - Cavern 3rd Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.00.2.102"
+  },
+  {
+    "name": "CI - Hidden Left Wall Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.01.2.103"
+  },
+  {
+    "name": "CI - Wall Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.01.2.104"
+  },
+  {
+    "name": "CI - High Outcropping Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.02.2.105"
+  },
+  {
+    "name": "CI - 3rd Large Cavern Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "18.02.2.106"
+  },
+  {
+    "name": "CI - 1st Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "18.00.3.049"
+  },
+  {
+    "name": "CI - 2nd Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "18.01.3.050"
+  },
+  {
+    "name": "CI - 3rd Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "18.02.3.051"
+  },
+  {
+    "name": "CI - 4th Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "18 - Cave Interiors",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "18.02.3.052"
+  },
+  {
+    "name": "BVD - Left Cavern DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "19 - Below Vincent's Den",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "19.00.3.053"
+  },
+  {
+    "name": "BVD - Right Cavern DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "19 - Below Vincent's Den",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "19.00.3.054"
+  },
+  {
+    "name": "MP - Starting Left Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.00.1.107"
+  },
+  {
+    "name": "MP - Next to Tree Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.00.1.108"
+  },
+  {
+    "name": "MP - 1st Intersection Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.02.1.109"
+  },
+  {
+    "name": "MP - Right Route Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.02.1.110"
+  },
+  {
+    "name": "MP - 1st Stalagmite Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.03.1.111"
+  },
+  {
+    "name": "MP - Left Route Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.03.1.112"
+  },
+  {
+    "name": "MP - 2nd Stalagmite Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.04.1.113"
+  },
+  {
+    "name": "MP - Rolling Boulder Path Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "20.05.1.114"
+  },
+  {
+    "name": "MP - Starting Tree Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.00.2.107"
+  },
+  {
+    "name": "MP - Starting Outcropping Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.00.2.108"
+  },
+  {
+    "name": "MP - 1st Stalagmite Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.01.2.109"
+  },
+  {
+    "name": "MP - Left Route Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.02.2.110"
+  },
+  {
+    "name": "MP - Right Route Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.03.2.111"
+  },
+  {
+    "name": "MP - 2nd Stalagmite Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.03.2.112"
+  },
+  {
+    "name": "MP - 3rd Intersection Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.04.2.113"
+  },
+  {
+    "name": "MP - Rolling Boulder Path Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "20.05.2.114"
+  },
+  {
+    "name": "MP - 1st Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "20.01.3.055"
+  },
+  {
+    "name": "MP - 2nd Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "20.01.3.056"
+  },
+  {
+    "name": "MP - 3rd Stalagmite DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "20 - Mountain Paths",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "20.04.3.057"
+  },
+  {
+    "name": "VD - Hoard 1st Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.115"
+  },
+  {
+    "name": "VD - Hoard 2nd Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.116"
+  },
+  {
+    "name": "VD - Hoard 3rd Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.117"
+  },
+  {
+    "name": "VD - Hoard 4th Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.118"
+  },
+  {
+    "name": "VD - Hoard 5th Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.119"
+  },
+  {
+    "name": "VD - Hoard 6th Cookies",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "21.00.1.120"
+  },
+  {
+    "name": "VD - Hoard 1st Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.115"
+  },
+  {
+    "name": "VD - Hoard 2nd Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.116"
+  },
+  {
+    "name": "VD - Hoard 3rd Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.117"
+  },
+  {
+    "name": "VD - Hoard 4th Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.118"
+  },
+  {
+    "name": "VD - Hoard 5th Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.119"
+  },
+  {
+    "name": "VD - Hoard 6th Chips",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "21.00.2.120"
+  },
+  {
+    "name": "VD - Hoard 1st DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "21.00.3.058"
+  },
+  {
+    "name": "VD - Hoard 2nd DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "21.00.3.059"
+  },
+  {
+    "name": "VD - Outcropping DVD",
+    "region": "Vincent Heist",
+    "category": [
+      "21 - Vincent's Den",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "21.00.3.060"
+  },
+  {
+    "name": "CH1 - Gazebo 1st Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "22.00.1.121"
+  },
+  {
+    "name": "CH1 - Gazebo 2nd Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "22.00.1.122"
+  },
+  {
+    "name": "CH1 - Watering Can Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "22.00.1.123"
+  },
+  {
+    "name": "CH1 - Potted Plant Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "22.00.1.124"
+  },
+  {
+    "name": "CH1 - Starting Bird Bath Chips",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "22.00.2.121"
+  },
+  {
+    "name": "CH1 - Yard Northwest Corner Chips",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "22.00.2.122"
+  },
+  {
+    "name": "CH1 - Potted Plant Chips",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "22.00.2.123"
+  },
+  {
+    "name": "CH1 - Planter Box Chips",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "22.00.2.124"
+  },
+  {
+    "name": "CH1 - Wheelbarrow DVD",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "22.00.3.061"
+  },
+  {
+    "name": "CH1 - Birdhouse Trap DVD",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "22.00.3.062"
+  },
+  {
+    "name": "CH1 - Laser Path DVD",
+    "region": "Conner Heist",
+    "category": [
+      "22 - Conner Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "22.00.3.063"
+  },
+  {
+    "name": "CH2 - 1st Crate Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "23.01.1.125"
+  },
+  {
+    "name": "CH2 - 1st Large Crate Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "23.02.1.126"
+  },
+  {
+    "name": "CH2 - 2nd Crate Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "23.03.1.127"
+  },
+  {
+    "name": "CH2 - 2nd Large Crate Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "23.04.1.128"
+  },
+  {
+    "name": "CH2 - Crate Chips",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "23.01.2.125"
+  },
+  {
+    "name": "CH2 - 2nd Spinning Laser Trap Chips",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "23.02.2.126"
+  },
+  {
+    "name": "CH2 - 3rd Spinning Laser Trap Chips",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "23.02.2.127"
+  },
+  {
+    "name": "CH2 - 1st Large Crate Chips",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "23.04.2.128"
+  },
+  {
+    "name": "CH2 - Large Crate DVD",
+    "region": "Conner Heist",
+    "category": [
+      "23 - Conner Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "23.03.3.064"
+  },
+  {
+    "name": "CH3 - Yard Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "24.00.1.129"
+  },
+  {
+    "name": "CH3 - Large Wood Trellis Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "24.00.1.130"
+  },
+  {
+    "name": "CH3 - Watering Can Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "24.00.1.131"
+  },
+  {
+    "name": "CH3 - Potted Plant Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "24.00.1.132"
+  },
+  {
+    "name": "CH3 - Starting Left Barrels Chips",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "24.00.2.129"
+  },
+  {
+    "name": "CH3 - Bird Bath Chips",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "24.00.2.130"
+  },
+  {
+    "name": "CH3 - Wheelbarrow Chips",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "24.00.2.131"
+  },
+  {
+    "name": "CH3 - Spa Chips",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "24.00.2.132"
+  },
+  {
+    "name": "CH3 - Starting Left Barrels DVD",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "24.00.3.065"
+  },
+  {
+    "name": "CH3 - Yard DVD",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "24.00.3.066"
+  },
+  {
+    "name": "CH3 - Wheelbarrow DVD",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "24.00.3.067"
+  },
+  {
+    "name": "CH3 - Planter Box DVD",
+    "region": "Conner Heist",
+    "category": [
+      "24 - Conner Heist, Pt. 3",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "24.00.3.068"
+  },
+  {
+    "name": "CH - Lamp Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "25.01.1.133"
+  },
+  {
+    "name": "CH - Bookshelf Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "25.01.1.134"
+  },
+  {
+    "name": "CH - Knife Rack Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "25.02.1.135"
+  },
+  {
+    "name": "CH - Shelf Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "25.02.1.136"
+  },
+  {
+    "name": "CH - Coffee Table Chips",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "25.01.2.133"
+  },
+  {
+    "name": "CH - TV Cabinet Chips",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "25.01.2.134"
+  },
+  {
+    "name": "CH - Vase Chips",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "25.02.2.135"
+  },
+  {
+    "name": "CH - Toaster Chips",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "25.02.2.136"
+  },
+  {
+    "name": "CH - Bookshelf DVD",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "25.01.3.069"
+  },
+  {
+    "name": "CH - Floor DVD",
+    "region": "Conner Heist",
+    "category": [
+      "25 - Conner House",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "25.02.3.070"
+  },
+  {
+    "name": "CHE - Starting Right Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.01.1.137"
+  },
+  {
+    "name": "CHE - Wood Trellis Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.01.1.138"
+  },
+  {
+    "name": "CHE - Bird Bath Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.01.1.139"
+  },
+  {
+    "name": "CHE - Planter Box Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.01.1.140"
+  },
+  {
+    "name": "CHE - Northwest Corner Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.02.1.141"
+  },
+  {
+    "name": "CHE - South-Southeast-ish Cookies",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "26.02.1.142"
+  },
+  {
+    "name": "CHE - Starting Tricycle Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.01.2.137"
+  },
+  {
+    "name": "CHE - Bird Bath Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.01.2.138"
+  },
+  {
+    "name": "CHE - Potted Plant Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.01.2.139"
+  },
+  {
+    "name": "CHE - Yard West Corner Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.02.2.140"
+  },
+  {
+    "name": "CHE - Northeast Corner Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.02.2.141"
+  },
+  {
+    "name": "CHE - Southeast Corner Chips",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "26.02.2.142"
+  },
+  {
+    "name": "CHE - Frisbee DVD",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "26.01.3.071"
+  },
+  {
+    "name": "CHE - Barrel DVD",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "26.01.3.072"
+  },
+  {
+    "name": "CHE - Yard South End DVD",
+    "region": "Conner Heist",
+    "category": [
+      "26 - Conner Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "26.02.3.073"
+  },
+  {
+    "name": "MGC - Barrel Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.01.1.143"
+  },
+  {
+    "name": "MGC - Path Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.02.1.144"
+  },
+  {
+    "name": "MGC - House Golf Obstacle Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.02.1.145"
+  },
+  {
+    "name": "MGC - Crane Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.03.1.146"
+  },
+  {
+    "name": "MGC - Stair Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.03.1.147"
+  },
+  {
+    "name": "MGC - 1st Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.04.1.148"
+  },
+  {
+    "name": "MGC - 2nd Building Doorway Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.05.1.149"
+  },
+  {
+    "name": "MGC - Front of Jail Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "27.05.1.150"
+  },
+  {
+    "name": "MGC - Starting Left Barrel Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.01.2.143"
+  },
+  {
+    "name": "MGC - Stable Awning Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.02.2.144"
+  },
+  {
+    "name": "MGC - Barrel Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.02.2.145"
+  },
+  {
+    "name": "MGC - Windmill Golf Obstacle Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.03.2.146"
+  },
+  {
+    "name": "MGC - Right Wall Before Bend Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.03.2.147"
+  },
+  {
+    "name": "MGC - 1st Small Barrel Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.04.2.148"
+  },
+  {
+    "name": "MGC - 2nd Small Barrel Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.04.2.149"
+  },
+  {
+    "name": "MGC - Undertaker Balcony Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "27.05.2.150"
+  },
+  {
+    "name": "MGC - Crane DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "27.03.3.074"
+  },
+  {
+    "name": "MGC - Area with Small Barrel DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "27.04.3.075"
+  },
+  {
+    "name": "MGC - Mine Track DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "27 - Mini-Golf Course",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "27.06.3.076"
+  },
+  {
+    "name": "RCT - Top Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.01.1.151"
+  },
+  {
+    "name": "RCT - 1st Barrel Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.01.1.152"
+  },
+  {
+    "name": "RCT - 2nd Barrel Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.04.1.153"
+  },
+  {
+    "name": "RCT - 1st High Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.04.1.154"
+  },
+  {
+    "name": "RCT - Lower Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.04.1.155"
+  },
+  {
+    "name": "RCT - 2nd High Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.04.1.156"
+  },
+  {
+    "name": "RCT - Middle Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.05.1.157"
+  },
+  {
+    "name": "RCT - Low Platform Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "28.05.1.158"
+  },
+  {
+    "name": "RCT - Main Path Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.00.2.151"
+  },
+  {
+    "name": "RCT - Bottom Platform Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.01.2.152"
+  },
+  {
+    "name": "RCT - 1st Section Low Platform Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.01.2.153"
+  },
+  {
+    "name": "RCT - Weasel Ambush Track Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.02.2.154"
+  },
+  {
+    "name": "RCT - Crate Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.03.2.155"
+  },
+  {
+    "name": "RCT - Lower Platform Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.04.2.156"
+  },
+  {
+    "name": "RCT - 3rd Section Low Platform Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.05.2.157"
+  },
+  {
+    "name": "RCT - Badger Track Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "28.05.2.158"
+  },
+  {
+    "name": "RCT - Electrical Wire DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "28.02.3.077"
+  },
+  {
+    "name": "RCT - Platform DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "28.04.3.078"
+  },
+  {
+    "name": "RCT - 2nd Elevator DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "28 - Roller Coaster Tracks",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "28.05.3.079"
+  },
+  {
+    "name": "RCE - 1st Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.01.1.159"
+  },
+  {
+    "name": "RCE - 2nd Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.02.1.160"
+  },
+  {
+    "name": "RCE - 3rd Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.02.1.161"
+  },
+  {
+    "name": "RCE - 4th Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.03.1.162"
+  },
+  {
+    "name": "RCE - 5th Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.04.1.163"
+  },
+  {
+    "name": "RCE - 6th Box Cookies",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "29.05.1.164"
+  },
+  {
+    "name": "RCE - 1st Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.01.2.159"
+  },
+  {
+    "name": "RCE - 2nd Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.01.2.160"
+  },
+  {
+    "name": "RCE - 3rd Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.02.2.161"
+  },
+  {
+    "name": "RCE - 4th Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.03.2.162"
+  },
+  {
+    "name": "RCE - 5th Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.03.2.163"
+  },
+  {
+    "name": "RCE - 6th Box Chips",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "29.05.2.164"
+  },
+  {
+    "name": "RCE - 2nd-Last Box DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "29.02.3.080"
+  },
+  {
+    "name": "RCE - Box DVD",
+    "region": "Carnival Heist",
+    "category": [
+      "29 - Roller Coaster Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "29.07.3.081"
+  },
+  {
+    "name": "GH1 - Starting South Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.01.1.165"
+  },
+  {
+    "name": "GH1 - Starting Brick Stack Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.01.1.166"
+  },
+  {
+    "name": "GH1 - Wood Beam Stack Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.01.1.167"
+  },
+  {
+    "name": "GH1 - Wood Stand Boards Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.02.1.168"
+  },
+  {
+    "name": "GH1 - Double Brick Stack Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.02.1.169"
+  },
+  {
+    "name": "GH1 - High Ledge Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.02.1.170"
+  },
+  {
+    "name": "GH1 - Wood Board Stack Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.02.1.171"
+  },
+  {
+    "name": "GH1 - Crate Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "30.03.1.172"
+  },
+  {
+    "name": "GH1 - Starting Bottom Supply Crate Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.01.2.165"
+  },
+  {
+    "name": "GH1 - Pallet Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.01.2.166"
+  },
+  {
+    "name": "GH1 - Double Brick Stack Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.02.2.167"
+  },
+  {
+    "name": "GH1 - Crate Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.02.2.168"
+  },
+  {
+    "name": "GH1 - Pool Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.02.2.169"
+  },
+  {
+    "name": "GH1 - Wood Stand Boards Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.02.2.170"
+  },
+  {
+    "name": "GH1 - Ambush Room Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.03.2.171"
+  },
+  {
+    "name": "GH1 - Stairtop Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "30.03.2.172"
+  },
+  {
+    "name": "GH1 - Starting Crate DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "30.01.3.082"
+  },
+  {
+    "name": "GH1 - Wood Beam Stack DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "30.02.3.083"
+  },
+  {
+    "name": "GH1 - Crate DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "30.02.3.084"
+  },
+  {
+    "name": "GH1 - Supply Crate DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "30 - Gladys Heist, Pt. 1",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "30.03.3.085"
+  },
+  {
+    "name": "GH2 - Front Door Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.01.1.173"
+  },
+  {
+    "name": "GH2 - Planter Box Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.01.1.174"
+  },
+  {
+    "name": "GH2 - For Sale Sign Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.01.1.175"
+  },
+  {
+    "name": "GH2 - Van Roof Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.01.1.176"
+  },
+  {
+    "name": "GH2 - Behind Van Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.01.1.177"
+  },
+  {
+    "name": "GH2 - Cup Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "31.02.1.178"
+  },
+  {
+    "name": "GH2 - Starting Front Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.01.2.173"
+  },
+  {
+    "name": "GH2 - Cooler Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.01.2.174"
+  },
+  {
+    "name": "GH2 - 1st Planter Box Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.01.2.175"
+  },
+  {
+    "name": "GH2 - 2nd Planter Box Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.01.2.176"
+  },
+  {
+    "name": "GH2 - Grandfather Clock Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.02.2.177"
+  },
+  {
+    "name": "GH2 - Exit Hatch Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "31.02.2.178"
+  },
+  {
+    "name": "GH2 - Middle Cardboard Box DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "31.01.3.086"
+  },
+  {
+    "name": "GH2 - TV DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "31 - Gladys Heist, Pt. 2",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "31.02.3.087"
+  },
+  {
+    "name": "GHE - Starting Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.00.1.179"
+  },
+  {
+    "name": "GHE - Air as Ozzie Drives Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.00.1.180"
+  },
+  {
+    "name": "GHE - Ivy Trellis Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.02.1.181"
+  },
+  {
+    "name": "GHE - 1st Left Jump Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.02.1.182"
+  },
+  {
+    "name": "GHE - 2nd Left Jump Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.02.1.183"
+  },
+  {
+    "name": "GHE - 3rd Left Jump Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "32.03.1.184"
+  },
+  {
+    "name": "GHE - Next to Beehive Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.00.2.179"
+  },
+  {
+    "name": "GHE - Air as Ozzie Drives Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.00.2.180"
+  },
+  {
+    "name": "GHE - Air Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.00.2.181"
+  },
+  {
+    "name": "GHE - 1st Tree Branch Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.02.2.182"
+  },
+  {
+    "name": "GHE - 2nd Tree Branch Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.02.2.183"
+  },
+  {
+    "name": "GHE - Wood Plant Frame Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "32.02.2.184"
+  },
+  {
+    "name": "GHE - Tree Branch After Fence DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "32.00.3.088"
+  },
+  {
+    "name": "GHE - 2nd Yard DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "32.01.3.089"
+  },
+  {
+    "name": "GHE - Air DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "32 - Gladys Heist Escape",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "32.03.3.090"
+  },
+  {
+    "name": "PtW! - Tree Stump Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "33.00.1.185"
+  },
+  {
+    "name": "PtW! - Stone Cookies",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "33.00.1.186"
+  },
+  {
+    "name": "PtW! - Log Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "33.00.2.185"
+  },
+  {
+    "name": "PtW! - Stone Chips",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "33.00.2.186"
+  },
+  {
+    "name": "PtW! - Hat Tree DVD",
+    "region": "Gladys Heist",
+    "category": [
+      "33 - Protect the Woods!",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "33.00.3.091"
+  },
+  {
+    "name": "VH - Right of Stairs Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.01.1.187"
+  },
+  {
+    "name": "VH - Reception Desk Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.02.1.188"
+  },
+  {
+    "name": "VH - Chair Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.03.1.189"
+  },
+  {
+    "name": "VH - North Corner Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.03.1.190"
+  },
+  {
+    "name": "VH - 1st Shelf Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.04.1.191"
+  },
+  {
+    "name": "VH - Small Jar Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.04.1.192"
+  },
+  {
+    "name": "VH - 2nd Shelf Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.05.1.193"
+  },
+  {
+    "name": "VH - 3rd Shelf Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Cookies"
+    ],
+    "requires": "",
+    "sort-key": "34.06.1.194"
+  },
+  {
+    "name": "VH - Left of Stairs Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.01.2.187"
+  },
+  {
+    "name": "VH - Left Reception Desk Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.02.2.188"
+  },
+  {
+    "name": "VH - 1st Shelf Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.03.2.189"
+  },
+  {
+    "name": "VH - Middle Chair Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.04.2.190"
+  },
+  {
+    "name": "VH - 2nd Shelf Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.04.2.191"
+  },
+  {
+    "name": "VH - Filing Cabinet Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.05.2.192"
+  },
+  {
+    "name": "VH - Computer Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.05.2.193"
+  },
+  {
+    "name": "VH - Corner Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "Chips"
+    ],
+    "requires": "",
+    "sort-key": "34.06.2.194"
+  },
+  {
+    "name": "VH - Book DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "34.03.3.092"
+  },
+  {
+    "name": "VH - Left Computer DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "34.05.3.093"
+  },
+  {
+    "name": "VH - Globe DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "34 - Vermtech Heist",
+      "DVDs"
+    ],
+    "requires": "",
+    "sort-key": "34.06.3.094"
+  },
+  {
+    "name": "RH! - Starting Bottom-Left Corner Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.1.195"
+  },
+  {
+    "name": "RH! - 1st Mind Control Machine Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.1.196"
+  },
+  {
+    "name": "RH! - 3rd Mind Control Machine Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.1.197"
+  },
+  {
+    "name": "RH! - Upper Path 1st Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.02.1.198"
+  },
+  {
+    "name": "RH! - Upper Path 2nd Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.02.1.199"
+  },
+  {
+    "name": "RH! - Upper Path 3rd Cookies",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Cookies"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.02.1.200"
+  },
+  {
+    "name": "RH! - Starting Bottom-Right Corner Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.2.195"
+  },
+  {
+    "name": "RH! - 1st Mind Control Machine Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.2.196"
+  },
+  {
+    "name": "RH! - 2nd Mind Control Machine Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.2.197"
+  },
+  {
+    "name": "RH! - 3rd Mind Control Machine Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.2.198"
+  },
+  {
+    "name": "RH! - Upper Path 1st Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.02.2.199"
+  },
+  {
+    "name": "RH! - Upper Path 2nd Chips",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "Chips"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.02.2.200"
+  },
+  {
+    "name": "RH! - 1st Mind Control Machine DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.3.095"
+  },
+  {
+    "name": "RH! - 3rd Mind Control Machine DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.3.096"
+  },
+  {
+    "name": "RH! - 4th Mind Control Machine DVD",
+    "region": "Vermtech Rescue",
+    "category": [
+      "35 - Rescue Heather!",
+      "DVDs"
+    ],
+    "requires": "|RJ| AND |Verne| AND |Hammy| AND |Stella|",
+    "sort-key": "35.01.3.097"
+  }
+]

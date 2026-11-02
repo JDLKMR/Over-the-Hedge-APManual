@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.categories.schema.json",
+  "Minigames": {
+	"yaml_option": ["shuffle_minigames"]
+  },
+  "Hats": {
+    "hidden": true,
+	"yaml_option": ["shuffle_hats"]
+  },
+  "Cookies": {
+    "hidden": true,
+	"yaml_option": ["shuffle_cookies"]
+  },
+  "Chips": {
+    "hidden": true,
+	"yaml_option": ["shuffle_chips"]
+  },
+  "DVDs": {
+    "hidden": true,
+	"yaml_option": ["shuffle_dvds"]
+  }
+}

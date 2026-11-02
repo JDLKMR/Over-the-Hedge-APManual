@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "OvertheHedge",
+  "creator": "JD",
+  "filler_item_name": "Spuddies",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Characters"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Heist Access"
+      ],
+      "random": 1
+    }
+  ]
+}
